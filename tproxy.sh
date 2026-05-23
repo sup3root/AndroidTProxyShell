@@ -2,7 +2,7 @@
 
 readonly SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd -P)"
 # Version (use YY.MM.DD format)
-readonly SCRIPT_VERSION="v26.04.16"
+readonly SCRIPT_VERSION="v26.05.23"
 
 export TZ=Asia/Shanghai
 
